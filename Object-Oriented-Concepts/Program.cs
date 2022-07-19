@@ -12,5 +12,7 @@ class Program
         c.GetLength("asdfla sjklafl; fa;klsf ");
         c.GetLength("asdfla sjklafl; fa;klsf", "Number");
 
+        // Animal animal1 = new Animal();
+        // animal1.Live();
     }
 }
