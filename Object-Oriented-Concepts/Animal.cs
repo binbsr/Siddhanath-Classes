@@ -2,6 +2,7 @@
 // Abstract classes
 // Interfaces
 
+namespace LivingThings;
 public abstract class Animal
 {
     public void Eat()

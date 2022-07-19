@@ -1,3 +1,4 @@
+namespace LivingThings;
 class Dog : Animal
 {
     // 1. overriding

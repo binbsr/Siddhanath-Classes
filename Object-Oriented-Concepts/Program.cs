@@ -1,3 +1,5 @@
+using LivingThings;
+
 class Program
 {    
     void Test()
@@ -14,5 +16,7 @@ class Program
 
         // Animal animal1 = new Animal();
         // animal1.Live();
+
+        Dog g = new Dog();
     }
 }
