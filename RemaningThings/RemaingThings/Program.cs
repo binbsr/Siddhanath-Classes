@@ -23,3 +23,7 @@ var primeSquares = primes.Select(x => x * x);
 var x = names.Where(y => y.StartsWith("P"));
 
 // Skip, Take, orderby, groupby, join
+
+
+Person p = new Person();
+p.FirstName = "Np";
